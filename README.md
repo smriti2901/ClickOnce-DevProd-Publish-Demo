@@ -1,4 +1,4 @@
-# ClickOnce-DevProd-Publish-Demo
+# How to deploy multi-environment app using ClickOnce Publish Profiles for Dev and Prod 
 This source code demonstrates how to publish an app using ClickOnce with multiple environments profile and install both apps in computer at the same time.
 
 ## Steps to set up different behaviour for Dev and Prod app
