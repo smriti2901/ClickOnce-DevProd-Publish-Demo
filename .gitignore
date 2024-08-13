@@ -1,0 +1,53 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.ide
+.idea/
+*.tss
+_Tmp/
+[Tt]humbs.db
+*.DS_Store
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# Ignore ClickOnce publish output
+Publish/
+**/Publish/
+
+# Ignore build results
+bin/
+obj/
+out/
+
+# Ignore NuGet packages
+*.nupkg
+# NuGet v3's project.json files produces more ignoreable files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Rider IDE files
+.idea/
+*.sln.iml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+
+# Ignore VS Code files
+.vscode/
